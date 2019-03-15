@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=TGST01:g=1464:u=1:i=1552678437:t=1552764837:s=AQEwxoaynGPynaAO2hlMIwPZWKjverKq"
+
